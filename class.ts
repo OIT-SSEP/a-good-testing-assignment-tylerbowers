@@ -9,7 +9,7 @@ export class SomeThingClass {
   }
 
   sayName() {
-    return 'My name is Slim Shady.';
+    return 'My name is Slim Shady, I stand up.';
   }
 }
 
